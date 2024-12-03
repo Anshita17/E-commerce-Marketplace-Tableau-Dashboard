@@ -1,5 +1,7 @@
 # E-commerce-Marketplace-Tableau-Dashboard
 This dashboard provides data-driven insights that inform business strategies and optimize operations across various dimensions, including customer engagement, seller performance, product offerings, and channel effectiveness.
+
+https://github.com/user-attachments/assets/99369140-268c-4589-a1c4-2a58d0578ac9
 # Dataset Overview
 Customers: Contains information about customers, including demographics and geographic locations.  
 Sellers: Details about sellers operating in the marketplace.  
@@ -9,9 +11,6 @@ Order Items: Detailed information on individual items within each order.
 Order Payments: Records of payment transactions associated with orders.  
 Order Review Ratings: Customer ratings for each order.  
 Geo-Location: Location data associated with customers and sellers.  
-
-https://github.com/user-attachments/assets/99369140-268c-4589-a1c4-2a58d0578ac9
-
 
  # Tools Used
 * SQL Server:
