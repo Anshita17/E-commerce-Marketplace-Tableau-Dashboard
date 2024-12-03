@@ -9,6 +9,10 @@ Order Items: Detailed information on individual items within each order.
 Order Payments: Records of payment transactions associated with orders.  
 Order Review Ratings: Customer ratings for each order.  
 Geo-Location: Location data associated with customers and sellers.  
+
+https://github.com/user-attachments/assets/99369140-268c-4589-a1c4-2a58d0578ac9
+
+
  # Tools Used
 * SQL Server:
 Utilized as the primary database for storing and managing large volumes of data, ensuring structured query execution and secure data storage.
